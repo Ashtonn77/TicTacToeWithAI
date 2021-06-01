@@ -1,0 +1,39 @@
+tictactoe/interfaces_/UserInput.java
+ tictactoe.interfaces_.UserInput
+tictactoe/validation/interfaces_/StateChecker.java
+ tictactoe.validation.interfaces_.StateChecker
+tictactoe/helpers/PrintUtil.java
+ tictactoe.helpers.PrintUtil
+tictactoe/interfaces_/Printer.java
+ tictactoe.interfaces_.Printer
+tictactoe/mainclasses/Board.java
+ tictactoe.mainclasses.Board
+tictactoe/validation/interfaces_/Validator.java
+ tictactoe.validation.interfaces_.Validator
+tictactoe/validation/classes/State.java
+ tictactoe.validation.classes.State
+tictactoe/validation/interfaces_/PlayerChecker.java
+ tictactoe.validation.interfaces_.PlayerChecker
+tictactoe/interfaces_/Difficulty.java
+ tictactoe.interfaces_.Difficulty
+tictactoe/mainclasses/Player.java
+ tictactoe.mainclasses.Player
+tictactoe/validation/classes/PlayLastCellToWin.java
+ tictactoe.validation.classes.PlayLastCellToWin
+tictactoe/helpers/AI.java
+ tictactoe.helpers.AI
+tictactoe/helpers/CellGetter.java
+ tictactoe.helpers.CellGetter
+tictactoe/helpers/PositionGetter.java
+ tictactoe.helpers.PositionGetter
+tictactoe/validation/classes/Checker.java
+ tictactoe.validation.classes.Checker
+tictactoe/helpers/PlayerInput.java
+ tictactoe.helpers.PlayerInput
+tictactoe/mainclasses/Game.java
+ tictactoe.mainclasses.Game
+tictactoe/mainclasses/Computer.java
+ tictactoe.mainclasses.Computer
+ tictactoe.mainclasses.Computer$Move
+tictactoe/mainclasses/Main.java
+ tictactoe.mainclasses.Main
